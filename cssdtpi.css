@@ -9,6 +9,7 @@
 }
 body{
   	background-repeat: no-repeat;
+	background-size: cover;
 }
 .page1{
   background-image: url('backgroundgunung.jpg');\
